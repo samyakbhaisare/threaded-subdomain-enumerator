@@ -104,7 +104,7 @@ python3 subdomain\_enum.py
 
 
 
-!\[Results](screenshots/results.png)
+!\[Results](results.png)
 
 
 
