@@ -1,0 +1,16 @@
+www
+mail
+admin
+test
+dev
+api
+login
+portal
+dashboard
+blog
+shop
+support
+cdn
+m
+beta
+staging
