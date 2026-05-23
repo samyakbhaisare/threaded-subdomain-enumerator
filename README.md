@@ -80,7 +80,7 @@ python3 subdomain\_enum.py
 
 
 
-![DNS Output](screenshots/dns_output.png)
+![DNS Output](dns_output.png)
 
 
 
@@ -92,7 +92,7 @@ python3 subdomain\_enum.py
 
 
 
-![Subdomain Scan](screenshots/subdomain_scan.png)
+![Subdomain Scan](subdomain_scan.png)
 
 
 
