@@ -1,8 +1,8 @@
-\# 🔍 Threaded Subdomain Enumeration Tool Using Python
+# 🔍 Threaded Subdomain Enumeration Tool Using Python
 
 
 
-\## 📖 Description
+## 📖 Description
 
 
 
@@ -10,53 +10,53 @@ This project is a Python and multithreading-based subdomain enumeration tool use
 
 
 
-\---
+---
 
 
 
-\## ⚙️ Features
+## ⚙️ Features
 
 
 
-\* DNS Enumeration
+* DNS Enumeration
 
-\* Threaded Subdomain Scanning
+* Threaded Subdomain Scanning
 
-\* Active Subdomain Detection
+* Active Subdomain Detection
 
-\* HTTP Status Filtering
+* HTTP Status Filtering
 
-\* Fast Concurrent Scanning
+* Fast Concurrent Scanning
 
-\* Saves Results to a File
-
-
-
-\---
+* Saves Results to a File
 
 
 
-\## 🛠️ Technologies Used
+---
 
 
 
-\* Python
-
-\* Requests Library
-
-\* DNSPython
-
-\* Threading
-
-\* Kali Linux
+## 🛠️ Technologies Used
 
 
 
-\---
+* Python
+
+* Requests Library
+
+* DNSPython
+
+* Threading
+
+* Kali Linux
 
 
 
-\## ▶️ How to Run
+---
+
+
+
+## ▶️ How to Run
 
 
 
@@ -68,83 +68,83 @@ python3 subdomain\_enum.py
 
 
 
-\---
+---
 
 
 
-\## 📸 Screenshots
+## 📸 Screenshots
 
 
 
-\### DNS Enumeration Output
+### DNS Enumeration Output
 
 
 
-!\[DNS Output](screenshots/dns\_output.png)
+![DNS Output](screenshots/dns_output.png)
 
 
 
-\---
+---
 
 
 
-\### Active Subdomain Detection
+### Active Subdomain Detection
 
 
 
-!\[Subdomain Scan](screenshots/subdomain\_scan.png)
+![Subdomain Scan](screenshots/subdomain_scan.png)
 
 
 
-\---
+---
 
 
 
-\### Saved Results File
+### Saved Results File
 
 
 
-!\[Results](results.png)
+![Results](screenshots/results.png)
 
 
 
-\---
+---
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
-Threaded\_Subdomain\_Enumerator/
+Threaded_Subdomain_Enumerator/
 
 
 
-│── subdomain\_enum.py
+│── subdomain_enum.py
 
 │── subdomains.txt
 
-│── discovered\_subdomains.txt
+│── discovered_subdomains.txt
 
 │── README.md
 
-│── Subdomain\_Enumeration\_Report.pdf
+│── Subdomain_Enumeration_Report.pdf
 
 │── screenshots/
 
-│   ├── dns\_output.png
+│   ├── dns_output.png
 
-│   ├── subdomain\_scan.png
+│   ├── subdomain_scan.png
 
 │   ├── results.png
 
 
 
-\---
+---
 
 
 
-\## ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 
 
@@ -152,11 +152,11 @@ This tool is developed for educational purposes only. Use it only on authorized 
 
 
 
-\---
+---
 
 
 
-\## 👤 Author
+## 👤 Author
 
 
 
