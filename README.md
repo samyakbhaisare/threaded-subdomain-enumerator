@@ -92,7 +92,7 @@ python3 subdomain\_enum.py
 
 
 
-![Subdomain Scan](subdomain_scan.png)
+![Subdomain Scan](screenshots/subdomain_scan.png)
 
 
 
